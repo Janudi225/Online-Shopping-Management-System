@@ -1,0 +1,32 @@
+type-Electronics
+Product id-456
+Product name-laptop
+No. of items-4
+Price-8900.0
+Brand-apple
+Warranty-98
+
+type-Clothing
+Product id-C1
+Product name-Clothing 1
+No. of items-3
+Price-30.0
+Size-M
+Color-Blue
+
+type-Electronics
+Product id-E1
+Product name-Electronic 1
+No. of items-5
+Price-100.0
+Brand-Brand1
+Warranty-12
+
+type-Clothing
+Product id-cloth
+Product name-trouser
+No. of items-23
+Price-678.0
+Size-XXS
+Color-blue
+
